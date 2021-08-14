@@ -1,4 +1,4 @@
-# about repository:
+# Sobre o Repositório:
 
 Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Henrique](https://www.linkedin.com/in/leonardohenriquemachado/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 

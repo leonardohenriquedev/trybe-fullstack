@@ -1,0 +1,9 @@
+Dinâmica de controle de versão
+Hoje vamos aprender sobre o uso do Git, um sistema de controle de versão amplamente utilizado no mundo do desenvolvimento de software!
+Mas você sabe porque usar um sistema de controle de versão?
+Antes de partir para os conceitos, vamos entender as dificuldades de se controlar a versão de um arquivo sem um sistema dedicado a essa função. Para isso, vamos fazer uma pequena dinâmica.
+Antes de começar, você deve abrir o artigo 5 motivos para você aprender JavaScript <3 pelo navegador e salvar o conteúdo para seu computador com o comando Ctrl + S ou clicando com o botão direito e selecionando salvar como .
+Agora em grupo, definam quem será a pessoa 1 , pessoa 2 , pessoa N... , dependendo do tamanho do seu grupo. A partir daí, cada pessoa deve seguir exclusivamente as instruções designadas para o seu número e ao final faremos a junção dos arquivos, um passo muito importante que chamamos de merge .
+Vocês não precisam e não vão utilizar o Git para essa dinâmica específica. Vocês devem utilizar apenas o Slack, Zoom, email e qualquer outro meio de comunicação para transmitir esses códigos.
+E aqui vai uma dica : definam antes de iniciar a dinâmica, qual ferramenta vocês utilizarão para compartilhar os arquivos. É importante definir também uma pessoa que será responsável por fazer a junção destes arquivos compartilhados.
+

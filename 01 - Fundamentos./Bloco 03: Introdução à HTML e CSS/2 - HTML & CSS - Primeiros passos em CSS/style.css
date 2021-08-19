@@ -1,0 +1,39 @@
+h1 {
+    color: rgb(247, 100, 2);
+        font-family: sans-serif;
+        font-style: italic;
+        text-align: center;
+    }
+    
+ul {
+    background-color: black;
+    color: white;
+    }
+    
+.paragraph-list{
+        background-color: black;
+    }
+    
+p {
+        font-weight: 600;
+        font-size: 3em;
+        color: white;
+    }
+    
+    
+body{
+    font-size: 16px;
+    }
+    
+#amarelo{
+        background-color: yellow;
+    }
+    
+#vermelho{
+        background-color: red;
+    }
+    
+#marrom{
+        background-color: brown;
+    }
+    

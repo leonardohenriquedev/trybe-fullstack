@@ -1,5 +1,27 @@
 div:hover{
-    border: 5px solid red;
+    border: 2px solid black;
+}
 
+
+.cor_primaria{
+    color: green;
+}
+.cor_secundaria{
+    color: violet;  
+}
+.cor_complementar{
+color: tomato;
+padding: 2em 0 2em 0;  
+}
+.cor_escura{
+    color: brown;
+}
+.cor_clara{
+    color: cornflowerblue; 
+}
+
+h3{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
 
 }

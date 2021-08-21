@@ -8,8 +8,12 @@ li em{
     font-weight: bold;
 }
 
-ol li.impar{
+ol{
     background-color: yellow;
+}
+
+ol li.impar{
+    
     text-transform: uppercase;
 
 }

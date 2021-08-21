@@ -2,7 +2,6 @@ div:hover{
     border: 2px solid black;
 }
 
-
 .cor_primaria{
     color: green;
 }
@@ -22,6 +21,9 @@ padding: 2em 0 2em 0;
 
 h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-style: italic;
+}
 
+h3.impar{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
 }

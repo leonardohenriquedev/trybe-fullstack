@@ -1,12 +1,6 @@
-body{
-    width: 650px;
-}
-
-
 h1 {
     text-align: center;
   }
-
 
   .first {
     background-color: rgb(235, 200, 84);
@@ -16,7 +10,6 @@ h1 {
     width: 200px;
     display: block;
     margin: auto;
-   
   }
 
   .second {
@@ -25,10 +18,7 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
-    margin: auto;
     display: inline-block;
-    
-    
   }
 
   .third {
@@ -37,12 +27,12 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
-    margin: auto;
     display: inline-block;
-    
-    
   }
 
+  ul{
+    text-align: center;
+  }
 
   main{
     text-align: center;

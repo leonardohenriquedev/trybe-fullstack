@@ -1,7 +1,12 @@
+body{
+    width: 650px;
+}
+
+
 h1 {
     text-align: center;
-    
   }
+
 
   .first {
     background-color: rgb(235, 200, 84);
@@ -10,7 +15,7 @@ h1 {
     text-align: center;
     width: 200px;
     display: block;
-    margin-left: 200px;
+    margin: auto;
    
   }
 
@@ -20,8 +25,9 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+    margin: auto;
     display: inline-block;
-    margin-left: auto;
+    
     
   }
 
@@ -31,10 +37,12 @@ h1 {
     height: 50px;
     text-align: center;
     width: 300px;
+    margin: auto;
     display: inline-block;
-    margin-left: auto;
+    
     
   }
+
 
   main{
     text-align: center;

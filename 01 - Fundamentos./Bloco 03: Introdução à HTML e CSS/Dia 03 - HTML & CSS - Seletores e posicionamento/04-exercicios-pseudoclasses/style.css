@@ -8,10 +8,16 @@ div:hover{
 .cor_secundaria{
     color: violet;  
 }
+
+
 .cor_complementar{
 color: tomato;
-padding: 2em 0 2em 0;  
 }
+
+div:nth-of-type(3n){
+    padding: 2em 0 2em 0;
+}
+
 .cor_escura{
     color: brown;
 }
@@ -23,7 +29,12 @@ h3{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-h3.impar{
+/* h3.impar{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-style: italic;
+} */
+
+div:nth-child(odd){
+    font-style: italic;
 }
+

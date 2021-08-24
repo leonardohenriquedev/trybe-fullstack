@@ -1,3 +1,15 @@
+body{
+width: 700px;
+margin-left: auto;
+margin-right: auto;
+    
+}
+}
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
 #nomeCientifico{
     font-style: italic;
 }
@@ -5,3 +17,57 @@
 #destaque{
     font-weight: bold;
 }
+
+header{
+    text-align: center;
+    color: rgb(70, 97, 255);
+    background-color: rgb(49, 218, 114);
+}
+
+a{
+    color: rgb(70, 97, 255);
+    text-decoration: none;
+}
+
+article h1, h2{
+    color: rgb(49, 218, 114);
+    text-align: center;
+    margin-top: 2em;
+}
+
+article h3{
+    text-align: center;
+    margin-top: 3em;
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 2em;
+    
+}
+
+footer{
+    text-align: center;
+    margin-top: 5em;
+}
+
+
+
+#refbib{
+    display: inline-block;
+    margin-left: 12.5%;
+}
+
+aside{
+    display: inline-block;
+    margin-left: 3em;
+    text-align: left;
+}
+

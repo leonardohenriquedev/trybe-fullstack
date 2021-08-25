@@ -1,0 +1,88 @@
+body {
+  background-color: rgb(253, 251, 251);
+  color: rgb(51, 51, 51);
+  line-height: 1.5;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 700px;
+  margin-left: auto;
+  margin-right: auto;
+  border: 8px solid rgb(112, 112, 112);
+}
+
+h1 {
+  font-size: 25px;
+}
+
+#cabecalho {
+  min-width: 700px;
+  position: fixed;
+  top: 0;
+  background-color: rgb(0, 165, 110);
+  text-align: center;
+}
+
+#minha_foto {
+  display: block;
+  margin-top: 4em;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1px;
+  border: 2em;
+  width: 200px;
+}
+
+#lado-a-lado {
+  display: inline-block;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
+
+.lado-esquerdo {
+  width: 300px;
+  float: left;
+  height: 200px;
+  margin-left: 2.5em;
+}
+
+.lado-direito {
+  width: 300px;
+  margin-left: 2em;
+  float: right;
+  height: 200px;
+}
+
+#licoesAprendidas {
+  text-align: left;
+  margin-left: auto;
+  margin-right: auto;
+  width: 330px;
+  float: left;
+  line-height: 2em;
+}
+
+#licoesASeremAprendidas {
+  text-align: left;
+  width: 340px;
+  display: inline-block;
+  line-height: 2em;
+}
+
+table {
+  display: none;
+}
+
+#rodape {
+  margin-top: 2em;
+  margin-bottom: 2em;
+  text-align: center;
+}
+
+nav {
+  display: inline;
+  text-decoration: none;
+}
+
+a {
+  text-decoration: none;
+  color: rgb(0, 165, 110);
+}

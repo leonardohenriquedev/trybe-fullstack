@@ -1,4 +1,4 @@
 primeira frase
-segundaa frase
+segunda frase
 terceira frase
 quarta frase

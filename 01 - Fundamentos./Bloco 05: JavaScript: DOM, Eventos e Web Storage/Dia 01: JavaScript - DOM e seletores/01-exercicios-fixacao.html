@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+
+<body>
+  <header>
+    <h2 id="page-title">Título</h2>
+    <p id="paragraph" class="paragrafo">Dê uma cor para este parágrafo!</p>
+    <h4 id="subtitle">Subtítulo</h4>
+    <p id="second-paragraph" class="paragrafo">Segundo parágrafo!</p>
+  </header>
+  <script>
+    const paragraph = document.getElementById("paragraph");
+
+    document.getElementById("page-title").innerText = 'Harry Potter';
+
+    paragraph.style.color = "red";
+
+    document.getElementById("second-paragraph").innerText = 'Dumbledore';
+
+    document.getElementById("subtitle").innerText = 'Hermione';
+
+    document.getElementsByClassName('paragrafo')[0].style.color = 'gray';
+
+    document.getElementsByTagName('h4')[0].style.color = 'purple';
+  </script>
+</body>
+
+</html>

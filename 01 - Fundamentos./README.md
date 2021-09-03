@@ -17,7 +17,7 @@
 - [x] 3-2: _HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _HTML Semântico_
-- [x] 3-5: _[Projeto - HTML & CSS]()_
+- [x] 3-5: _[Projeto - HTML & CSS](https://leonardohenriquedev.github.io/projects/lessons-learned/)_
 
 ##### Bloco 4: Introdução - JavaScript
 
@@ -25,7 +25,7 @@
 - [x] 4-2: _JavaScript - Array e loop For_
 - [x] 4-3: _JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _JavaScript - Objetos e funções_
-- [x] 4-5: _[Projeto - Playground Functions]()_
+- [x] 4-5: _[Projeto - Playground Functions](https://github.com/leonardohenriquedev/trybe-fullstack/tree/master/01%20-%20Fundamentos./Bloco%2004:%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/05:%20Projeto%20-%20Playground%20Functions)_
 
 ##### Bloco 5: Introdução - JavaScript - Projetos
 

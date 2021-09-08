@@ -26,7 +26,45 @@
       document.querySelector('#elementoOndeVoceEsta').nextElementSibling;
 
       document.querySelector('#pai').lastElementChild.previousElementSibling;
+
+      let caixa = document.createElement('div');
+
+      caixa.innerText = 'Irmao criado'
+
+      document.getElementById('elementoOndeVoceEsta').parentNode.appendChild(caixa);
+
+      let elementoFilho = document.createElement('p');
+
+      elementoFilho.innerText = 'Paragrafo do filho de elemento onde vc está'
+
+      elementoOndeVoceEsta.appendChild(elementoFilho);
+
+      let neto = document.createElement('div');
+      neto.className = 'neto';
+
+      neto.innerHTML = 'Texto de neto';
+
+      primeiroFilhoDoFilho.appendChild(neto);
+
+      document.getElementsByClassName('neto')[0].parentElement.parentElement.parentElement.firstElementChild.nextElementSibling.nextElementSibling;
+
+      //Remova todos os elementos filhos de paiDoPai exceto pai , elementoOndeVoceEsta e primeiroFilhoDoFilho .
+
+      let father = document.getElementById('pai');
+
+      father.removeChild(father.children[0]);
+
+      father.removeChild(father.children[1]);
+
+      father.removeChild(father.children[1]);
+
+      father.removeChild(father.children[1]);
+
+      father.children[0].removeChild(father.children[0].children[1]);
     </script>
+
+
+
   </main>
 </body>
 

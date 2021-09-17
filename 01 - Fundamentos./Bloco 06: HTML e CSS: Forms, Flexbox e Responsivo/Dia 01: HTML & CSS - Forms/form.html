@@ -6,94 +6,106 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Document</title>
+
+  <!-- <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous"> -->
+
   <link rel="stylesheet" href="style.css">
-  <!-- <link rel="stylesheet" href="bootstrap-5.1.1-dist/css/bootstrap.min.css"> -->
+
 </head>
 
 <body>
-  <h1>Envie seu Currículo</h1>
-  <form action="" method="GET" id="form">
 
-    <fieldset id="personalInfo">
-      <legend>Informações pessoais</legend>
+  <div class="container">
+    <h1>Envie seu Currículo</h1>
+    <form action="" method="GET" id="form">
 
-      <div class="line-content">
-        <label for="name">Nome:
+      <fieldset class="container" id="personalInfo">
+        <legend>Informações pessoais</legend>
+
+        <div class="mb-3">
+          <label class="form-label" for="name">Nome:
       <input class="form-control" type="text" maxlength="40" id="name" required autocomplete="off">
     </label>
-      </div>
+        </div>
 
-      <div class="line-content">
-        <label for="email">Email:
+        <div class="mb-3">
+          <label class="form-label" for="email">Email:
       <input class="form-control" type="email" maxlength="50" id="email" required autocomplete="off">
     </label>
-      </div>
+        </div>
 
-      <div class="line-content">
-        <label for="cpf">CPF:
+        <div class="mb-3">
+          <label class="form-label" for="cpf">CPF:
         <input class="form-control" type="text" maxlength="11" id="cpf" required autocomplete="off">
       </label>
-      </div>
+        </div>
 
-      <div class="line-content">
-        <label for="endereco">Endereço:
+        <div class="mb-3">
+          <label class="form-label" for="endereco">Endereço:
       <input class="form-control" type="text" maxlength="200" id="endereco" required autocomplete="off">
     </label>
-      </div>
+        </div>
 
-      <div class="line-content">
-        <label for="cidade">Cidade:
+        <div class="mb-3">
+          <label class="form-label" for="cidade">Cidade:
       <input class="form-control" type="text" maxlength="28" id="cidade" required autocomplete="off">
     </label>
-      </div>
+        </div>
 
-      <div class="line-content">
-        <label for="estados">Estado:
-      <select name="estado" class="form-control" id="estados">
+        <div>
+          <label for="estados">Estado:
+      <select class="form-select" name="estado" id="estados">
       </select>
     </label>
-      </div>
+        </div>
 
-      <div class="line-content">
+        <label class="form-check-inline" for="">Complemento:</label>
+        <div class="form-check form-check-inline">
+          <label class="form-check-label" for="casa">
+        <input class="form-check-input" type="radio" id="casa" name="complemento" value="casa" required checked>Casa
+        </label>
+        </div>
 
-        <label for="casa">Complemento:
-    <input class="form-control" type="radio" id="casa" name="complemento" value="casa" required checked>Casa</label>
-        <label for="apto">
-    <input class="form-control" type="radio" id="apto" name="complemento" value="apto" required>Apartamento</label>
-      </div>
+        <div class="form-check form-check-inline">
+          <label class="form-check-label" for="apto">
+        <input class="form-check-input" type="radio" id="apto" name="complemento" value="apto" required>Apartamento</label>
+        </div>
 
-    </fieldset>
 
-    <fieldset id="lastJob">
-      <legend>Sobre o seu último emprego</legend>
-      <div class="line-content">
-        <label for="textarea">Resumo do Currículo
-    <textarea name="resume" id="textarea" cols="20" rows="10" maxlength="1000" required></textarea>
-  </div>  
+      </fieldset>
 
-  <div class="line-content">
-    <label for="cargo">Cargo:
+      <fieldset class="container" id="lastJob">
+        <legend>Sobre o seu último emprego</legend>
+
+        <div class="mb-3">
+          <label class="form-label" for="textarea">Resumo do Currículo
+        <textarea class="form-control" name="resume" id="textarea" cols="20" rows="10" maxlength="1000" required></textarea>
+     </div>  
+
+  <div class="mb-3">
+    <label class="form-label" for="cargo">Cargo:
     <input class="form-control" type="text" id="cargo" max="40" required>
   </label>
-      </div>
+        </div>
 
-      <div class="line-content">
-        <label for="descricao-cargo">Descrição do Cargo:
+        <div class="mb-3">
+          <label class="form-label" for="descricao-cargo">Descrição:
     <input class="form-control" type="text" id="descricao-cargo" max="500" required>
   </label>
-      </div>
+        </div>
 
-      <div class="line-content">
+        <div>
 
-        <label for="date-inicio">Data de Início:
+          <label class="form-label" for="date-inicio">Data de Início:
     <input class="form-control" type="date" id="date-inicio" required></label>
-      </div>
-      <div class="buttons">
-        <button type="submit" id="submit">Enviar</button>
-        <button type="button" id="clear">Limpar</button>
-      </div>
-    </fieldset>
-  </form>
+        </div>
+        <div class="buttons">
+          <button class="btn btn-primary" type="submit" id="submit">Enviar</button>
+          <button class="btn btn-secondary" type="button" id="clear">Limpar</button>
+        </div>
+      </fieldset>
+    </form>
+  </div>
 
   <div id="curriculoCriado"></div>
 

@@ -57,6 +57,7 @@ window.onload = function() {
 
   submitButton.addEventListener('click', function(event) {
     event.preventDefault();
+    validation.init();
     let divCreated = document.createElement('div');
 
     for (let index = 0; index < curriculoCriado.children.length; index = 0) {
@@ -122,7 +123,9 @@ window.onload = function() {
       for (let index = 0; index < input.length; index++) {
         input[index].value = '';
       }
+      document.getElementById('date-inicio').DatePickerX.init();
     })
     curriculoCriado.appendChild(divCreated);
   })
+
 }

@@ -1,0 +1,23 @@
+{
+  "name": "exercicios",
+  "version": "1.0.0",
+  "description": "Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Henrique](https://www.linkedin.com/in/leonardohenriquemachado/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leonardohenriquedev/trybe-fullstack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leonardohenriquedev/trybe-fullstack/issues"
+  },
+  "homepage": "https://github.com/leonardohenriquedev/trybe-fullstack#readme",
+  "devDependencies": {
+    "jest": "^27.2.3"
+  }
+}

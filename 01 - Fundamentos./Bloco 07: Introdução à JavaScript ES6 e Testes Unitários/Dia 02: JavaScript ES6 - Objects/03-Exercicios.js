@@ -18,6 +18,13 @@ const lesson3 = {
   turno: 'noite',
 };
 
+const lesson4 = {
+  materia: 'Física',
+  numeroEstudantes: 10,
+  professor: 'Maria Clara',
+  turno: 'noite',
+};
+
 
 const addRotation = (obj, key, value) => {
   obj[key] = value;
@@ -38,7 +45,7 @@ const objectValues = (obj) => {
 }
 
 
-let allLessons = { lesson1, lesson2, lesson3 };
+let allLessons = { lesson1, lesson2, lesson3, lesson4 };
 
 
 const allStudents = (obj) => {
@@ -90,7 +97,7 @@ const createReport = (obj, prof) => {
     if ((obj[key]['professor']) == prof) {
 
       if (report.aulas[0] != null) {
-        report.aulas.push((obj[key]['materia']))
+        report.aulas.push((obj[key]['materia']));
 
       } else report.aulas = [(obj[key]['materia'])];
 

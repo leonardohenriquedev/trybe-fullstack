@@ -1,4 +1,5 @@
-const { sum, myRemove } = require('./7.3');
+const { it, expect } = require('@jest/globals');
+const { sum, myRemove, myFizzBuzz } = require('./7.3');
 
 describe('Testa a função sum', () => {
 
@@ -34,4 +35,29 @@ describe('Testa a função myRemove', () => {
   it('Verifica se a chamada myRemove([1, 2, 3, 4], 5) retorna o array [1, 2, 3, 4]', () => {
     expect(myRemove(arr, 5)).toEqual([1, 2, 3, 4]);
   })
+})
+
+describe('Testa a função myFizzBuzz', () => {
+
+  it('Verifica se a função retorna fizzbuzz quando o valor 15 é passado como parametro', () => {
+    expect(myFizzBuzz(15)).toEqual('fizzbuzz')
+  })
+
+  it('Verifica se a função retorna fizz quando o valor 3 é passado como parametro', () => {
+    expect(myFizzBuzz(3)).toEqual('fizz')
+  })
+
+  it('Verifica se a função retorna buzz quando o valor 5 é passado como parametro', () => {
+    expect(myFizzBuzz(5)).toEqual('buzz')
+  })
+
+  it('Verifica se a função retorna o mesmo numero quando o valor passado por parametro nao é divisivel por 3 ou 5.', () => {
+    let num = 8;
+    expect(myFizzBuzz(num)).toEqual(num)
+  })
+
+  it('Verifica se a função retorna false quando o parametro passado nao é um numero', () => {
+    expect(myFizzBuzz('oito')).toEqual(false)
+  })
+
 })

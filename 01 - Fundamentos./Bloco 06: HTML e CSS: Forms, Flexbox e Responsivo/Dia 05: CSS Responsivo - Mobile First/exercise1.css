@@ -22,7 +22,7 @@ figure {
 
 @media screen and (max-width: 600px) {
   body {
-    font-size: xx-large;
+    font-size: 1.5rem;
     margin: 0 50px;
   }
   h1 {

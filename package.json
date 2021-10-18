@@ -19,5 +19,8 @@
   "homepage": "https://github.com/leonardohenriquedev/trybe-fullstack#readme",
   "devDependencies": {
     "jest": "^27.2.3"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.5"
   }
 }

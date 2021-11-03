@@ -1,0 +1,12 @@
+.pokemon {
+  border: 1px solid black;
+  margin-bottom: 5%;
+  border-radius: 10px;
+  padding: 2%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  width: 300px;
+  background-color: rgba(100, 237, 134, 0.514);
+}

@@ -37,6 +37,8 @@
   }
 }
 
-.footer{
-  color: red;
+.pokedex{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
 }

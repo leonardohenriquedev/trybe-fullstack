@@ -1,6 +1,6 @@
 # Sobre o Repositório:
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Henrique](https://www.linkedin.com/in/leonardohenriquemachado/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Henrique](https://leonardohenrique.vercel.app/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
 
 
 _"A Trybe é uma escola do futuro para qualquer pessoa que queira melhorar de vida e construir uma carreira de sucesso em tecnologia, onde a pessoa só paga quando conseguir um bom trabalho."_
@@ -29,7 +29,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 3-2: _02: HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _03: HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _04: HTML Semântico_
-- [x] 3-5: _[05: Projeto - Lessons Learned](https://leonardohenriquedev.github.io/projects/lessons-learned/)_
+- [x] 3-5: _[05: Projeto - Lessons Learned]()_
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
@@ -38,7 +38,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 4-2: _02: JavaScript - Array e loop For_
 - [x] 4-3: _03: JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _04: JavaScript - Objetos e funções_
-- [x] 4-5: _[05: Projeto - Playground Functions](https://github.com/leonardohenriquedev/trybe-fullstack/tree/master/01%20-%20Fundamentos./Bloco%2004:%20Introdu%C3%A7%C3%A3o%20%C3%A0%20JavaScript%20e%20L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o/05:%20Projeto%20-%20Playground%20Functions)_
+- [x] 4-5: _[05: Projeto - Playground Functions]()_
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
@@ -47,10 +47,9 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 5-3: _03: JavaScript - Eventos_
 - [x] 5-4: _04: JavaScript - Web Storage_
 - [x] 5-5: _05: Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[05: Projeto - Arte com Pixels]()_
-- [x] 5-6: _[06: Projeto - Lista de tarefas]()_
-- [x] 5-7: _[07: (Bônus) Projeto - Meme Generator]()_
-- [x] 5-7: _[07: (Bônus) Projeto - Adivinhe a Cor]()_
+- [x] 5-5: _[05: Projeto - Arte com Pixels](https://leonardohenriquedev.github.io/pixels-art/)_
+- [x] 5-6: _[06: Projeto - Lista de tarefas](https://leonardohenriquedev.github.io/todo-list/)_
+- [x] 5-7: _[07: (Bônus) Projeto - Adivinhe a Cor](https://leonardohenriquedev.github.io/color-guess/)_
 - [x] 5-7: _[07: (Bônus) Projeto - Carta Misteriosa]()_
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
@@ -62,7 +61,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 6-3: _03: CSS Flexbox - Parte 1_
 - [x] 6-4: _04: CSS Flexbox - Parte 2_
 - [x] 6-5: _05: CSS Responsivo - Mobile First_
-- [x] 6-6: _[06: Projeto - Trybewarts]()_
+- [x] 6-6: _[06: Projeto - Trybewarts](https://leonardohenriquedev.github.io/trybewarts/)_
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
@@ -85,7 +84,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 9-1: _01: JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _02: JavaScript Assíncrono - Fetch API e async/await_
 - [x] 9-3: _03: Jest - Testes Assíncronos_
-- [x] 9-4: _[04: Projeto - Carrinho de Compras]()_
+- [x] 9-4: _[04: Projeto - Carrinho de Compras](https://leonardohenriquedev.github.io/shopping-cart/)_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -95,7 +94,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 10-1: _01: Introdução - React_
 - [x] 10-1: _01: 'Hello, world!' no React!_
 - [x] 10-2: _02: Componentes React_
-- [x] 10-3: _[03: Projeto - Sistema Solar]()_
+- [x] 10-3: _[03: Projeto - Sistema Solar](https://leonardohenriquedev.github.io/solar-system/)_
 
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 
@@ -107,7 +106,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] 12-1: _01: Ciclo de vida de componentes_
 - [x] 12-2: _02: React Router_
-- [x] 12-3: _[03: Projeto - TrybeTunes]()_
+- [x] 12-3: _[03: Projeto - TrybeTunes](https://trybetunes-ten.vercel.app/)_
 
 ##### Bloco 13: Metodologias Ágeis
 
@@ -128,11 +127,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 15-3: _03: Usando o Redux no React - Prática_
 - [x] 15-4: _04: Usando o Redux no React - Actions Assíncronas_
 - [x] 15-5: _05: Testes em React-Redux_
-- [x] 15-6: _[06: Projeto - Trybe Wallet]()_
+- [x] 15-6: _[06: Projeto - Trybe Wallet](https://trybewallet-cyan.vercel.app/)_
 
 ##### Bloco 16: Projeto Jogo de Trivia
 
-- [x] 16-1: _[01: Projeto - Jogo de Trivia]()_
+- [x] 16-1: _[01: Projeto - Jogo de Trivia](https://trivia-dun-five.vercel.app/)_
 
 ##### Bloco 17: Context API e React Hooks
 

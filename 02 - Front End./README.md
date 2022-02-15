@@ -1,4 +1,5 @@
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
+_*Pastas vazias estão em repositorios a parte_
 
 ##### Bloco 10: Introdução à React
 

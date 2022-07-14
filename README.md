@@ -1,6 +1,6 @@
 # Sobre o Repositório:
 
-Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Henrique](https://leonardohenrique.vercel.app/)_ enquanto estudava na [Trybe](https://www.betrybe.com/) :rocket:
+Este repositório contém todas as atividades de aprendizagem desenvolvidas por _[Leonardo Henrique](https://leonardohenrique.vercel.app/)_ enquanto estudava na [Trybe!](https://www.betrybe.com/) :rocket:
 
 O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais.
 
@@ -26,7 +26,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 3-2: _02: HTML & CSS - Primeiros passos em CSS_
 - [x] 3-3: _03: HTML & CSS - Seletores e posicionamento_
 - [x] 3-4: _04: HTML Semântico_
-- [x] 3-5: _[05: Projeto - Lessons Learned]()_
+- [x] 3-5: _05: Projeto - Lessons Learned_
 
 ##### Bloco 04: Introdução à JavaScript e Lógica de Programação
 
@@ -35,7 +35,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 4-2: _02: JavaScript - Array e loop For_
 - [x] 4-3: _03: JavaScript - Lógica de Programação e Algoritmos_
 - [x] 4-4: _04: JavaScript - Objetos e funções_
-- [x] 4-5: _[05: Projeto - Playground Functions]()_
+- [x] 4-5: _05: Projeto - Playground Functions_
 
 ##### Bloco 05: JavaScript: DOM, Eventos e Web Storage
 
@@ -44,10 +44,10 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 5-3: _03: JavaScript - Eventos_
 - [x] 5-4: _04: JavaScript - Web Storage_
 - [x] 5-5: _05: Fundamentos - JavaScript - Projetos_
-- [x] 5-5: _[05: Projeto - Arte com Pixels](https://leonardohenriquedev.github.io/pixels-art/)_
-- [x] 5-6: _[06: Projeto - Lista de tarefas](https://leonardohenriquedev.github.io/todo-list/)_
-- [x] 5-7: _[07: (Bônus) Projeto - Adivinhe a Cor](https://leonardohenriquedev.github.io/color-guess/)_
-- [x] 5-7: _[07: (Bônus) Projeto - Carta Misteriosa]()_
+- [x] 5-5: _05: Projeto - Arte com Pixels_
+- [x] 5-6: _06: Projeto - Lista de tarefas_
+- [x] 5-7: _07: (Bônus) Projeto - Adivinhe a Cor_
+- [x] 5-7: _07: (Bônus) Projeto - Carta Misteriosa_
 
 ##### Bloco 06: HTML e CSS: Forms, Flexbox e Responsivo
 
@@ -58,14 +58,14 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 6-3: _03: CSS Flexbox - Parte 1_
 - [x] 6-4: _04: CSS Flexbox - Parte 2_
 - [x] 6-5: _05: CSS Responsivo - Mobile First_
-- [x] 6-6: _[06: Projeto - Trybewarts](https://leonardohenriquedev.github.io/trybewarts/)_
+- [x] 6-6: _06: Projeto - Trybewarts_
 
 ##### Bloco 07: Introdução à JavaScript ES6 e Testes Unitários
 
 - [x] 7-1: _01: JavaScript ES6 - let, const, arrow functions e template literals_
 - [x] 7-2: _02: JavaScript ES6 - Fluxo de exceção e Objetos_
 - [x] 7-3: _03: Primeiros passos em Jest_
-- [x] 7-4: _[04: Projeto - JavaScript Testes Unitários]()_
+- [x] 7-4: _04: Projeto - JavaScript Testes Unitários_
 
 ##### Bloco 08: Higher Order Functions do JavaScript ES6
 
@@ -74,14 +74,14 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 8-3: _03: JavaScript ES6 - Higher Order Functions - map e filter_
 - [x] 8-4: _04: JavaScript ES6 - Higher Order Functions - reduce_
 - [x] 8-5: _05: JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais_
-- [x] 8-6: _[06: Projeto - Zoo functions]()_
+- [x] 8-6: _06: Projeto - Zoo functions_
 
 ##### Bloco 09: JavaScript e Testes Assíncronos
 
 - [x] 9-1: _01: JavaScript Assíncrono e Callbacks_
 - [x] 9-2: _02: JavaScript Assíncrono - Fetch API e async/await_
 - [x] 9-3: _03: Jest - Testes Assíncronos_
-- [x] 9-4: _[04: Projeto - Carrinho de Compras](https://leonardohenriquedev.github.io/shopping-cart/)_
+- [x] 9-4: _04: Projeto - Carrinho de Compras_
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -97,7 +97,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 
 - [x] 11-1: _01: Componentes com estado e eventos_
 - [x] 11-2: _02: Formulários no React_
-- [x] 11-3: _[03: Projeto - Tryunfo]()_
+- [x] 11-3: _03: Projeto - Tryunfo_
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 
@@ -108,14 +108,14 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 ##### Bloco 13: Metodologias Ágeis
 
 - [x] 13-1: _01: Metodologias Ágeis_
-- [x] 13-2: _[02: Projeto - Frontend Online Store]()_
+- [x] 13-2: _02: Projeto - Frontend Online Store_
 
 ##### Bloco 14: Testes automatizados com React Testing Library
 
 - [x] 14-1: _01: RTL - Primeiros passos_
 - [x] 14-2: _02: RTL - Mocks e Inputs_
 - [x] 14-3: _03: RTL - Testando React Router_
-- [x] 14-4: _[04: Projeto - Testes em React]()_
+- [x] 14-4: _04: Projeto - Testes em React_
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 
@@ -135,11 +135,11 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 17-1: _01: Context API do React_
 - [x] 17-2: _02: React Hooks - useState e useContext_
 - [x] 17-3: _03: React Hooks - useEffect e Hooks customizados_
-- [x] 17-4: _[04: Projeto - StarWars Datatable com Context API e Hooks]()_
+- [x] 17-4: _04: Projeto - StarWars Datatable com Context API e Hooks_
 
 ##### Bloco 18: Projeto App de Receitas
 
-- [x] 18-1: _[01: Projeto - App de Receitas]()_
+- [x] 18-1: _01: Projeto - App de Receitas_
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -149,7 +149,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 19-1: _01: Utilizando Containers - Docker_
 - [x] 19-2: _02: Manipulação e Criação de Imagens no Docker_
 - [x] 19-3: _03: Orquestrando Containers com Docker Compose_
-- [x] 19-4: _[04: Projeto - Docker Todo-List]()_
+- [x] 19-4: _04: Projeto - Docker Todo-List_
 
 ##### Bloco 20: Introdução à SQL
 
@@ -158,14 +158,14 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 20-2: _02: Encontrando dados em um banco de dados_
 - [x] 20-3: _03: Filtrando dados de forma específica_
 - [x] 20-4: _04: Manipulando tabelas_
-- [x] 20-5: _[05: Projeto - All For One]()_
+- [x] 20-5: _05: Projeto - All For One_
 
 ##### Bloco 21: Funções SQL, JOINs e Normalização
 
 - [x] 21-1: _01: Funções mais usadas no SQL_
 - [x] 21-2: _02: Descomplicando JOINs_
 - [x] 21-3: _03: Transformando ideias em um modelo de banco de dados_
-- [x] 21-4: _[04: Aula ao vivo + Projeto - One For All]()_
+- [x] 21-4: _04: Aula ao vivo + Projeto - One For All_
 
 ##### Bloco 22: Introdução ao desenvolvimento Web com Node.js
 
@@ -175,7 +175,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 22-3: _03: Mocha, Chai e Sinon - Testes de Back-end com Node.js_
 - [x] 22-4: _04: Express - HTTP com Node.js_
 - [x] 22-5: _05: Express - Middlewares_
-- [x] 22-6: _[06: Projeto - Talker Manager]()_
+- [x] 22-6: _06: Projeto - Talker Manager_
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
 
@@ -184,7 +184,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 23-2: _02: Arquitetura de Software - Camada de Controller e Service_
 - [x] 23-3: _03: Arquitetura Web - Rest e Restful_
 - [x] 23-4: _04: Arquitetura de Software - Testando as Camadas_
-- [x] 23-5: _[05: Projeto - Store Manager]()_
+- [x] 23-5: _05: Projeto - Store Manager_
 
 ##### Bloco 24: Node.js: ORM e Autenticação
 
@@ -193,14 +193,14 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 24-2: _02: ORM - Associations_
 - [x] 24-3: _03: JWT - (JSON Web Token)_
 - [x] 24-4: _04: Testando APIs com Testes de Integração_
-- [x] 24-5: _[05: Projeto - API de Blogs]()_
+- [x] 24-5: _05: Projeto - API de Blogs_
 
 ##### Bloco 25: Deployment
 
 - [x] 25-1: _01: Introdução - Deploy_
 - [x] 25-1: _01: Infraestrutura - Deploy com Heroku_
 - [x] 25-2: _02: Deploy Docker & Heroku_
-- [x] 25-3: _[03: Projeto - Stranger Things]()_
+- [x] 25-3: _03: Projeto - Stranger Things_
 
 ##### Bloco 26: TypeScript
 
@@ -208,7 +208,7 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 26-1: _01: Introdução ao TypeScript_
 - [x] 26-2: _02: Tipagem Estática e Generics_
 - [x] 26-3: _03: Express com TypeScript_
-- [x] 26-4: _[04: Projeto - Trybe Smith]()_
+- [x] 26-4: _04: Projeto - Trybe Smith_
 
 ##### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 
@@ -217,30 +217,26 @@ O curso conta com mais de 1.500 horas de aulas online, aborda introdução ao de
 - [x] 27-3: _03: Polimorfismo_
 - [x] 27-4: _04: SOLID - Introdução e Princípios S, O e D_
 - [x] 27-5: _05: SOLID - Princípios L e I_
-- [x] 27-6: _[06: Projeto - Trybers and Dragons]()_
+- [x] 27-6: _06: Projeto - Trybers and Dragons_
 
 ##### Bloco 28: Projeto - TFC - Trybe Futebol Clube
 
-- [ ] 28-1: _[01: Projeto - TFC - Trybe Futebol Clube]()_
+- [x] 28-1: _01: Projeto - TFC - Trybe Futebol Clube_
 
 ##### Bloco 29: Introdução ao MongoDB
 
-- [ ] 29-1: _01: Introdução - NoSQL_
-- [ ] 29-1: _01: MongoDB - Introdução_
-- [ ] 29-2: _02: Filter Operators_
-- [ ] 29-3: _03: Operadores de consulta_
-- [ ] 29-4: _04: Updates Simples_
-- [ ] 29-5: _05: Updates Complexos - Arrays_
-- [ ] 29-6: _[06: Projeto - Commerce]()_
+- [x] 29-1: _01: Introdução - NoSQL_
+- [x] 29-1: _01: MongoDB - Introdução_
+- [x] 29-2: _02: Filter Operators_
+- [x] 29-3: _03: Operadores de consulta_
+- [x] 29-4: _04: Updates Simples_
+- [x] 29-5: _05: Updates Complexos - Arrays_
+- [x] 29-6: _06: Projeto - Commerce_
 
 ##### Bloco 31: MasterClass - VPS, CI/CD
 
 - [ ] 31-1: _01: Dia 1_
 - [ ] 31-2: _02: Dia 2_
-
-##### Bloco 32: Projeto - App de Delivery
-
-- [ ] 32-1: _[01: Projeto - App de Delivery]()_
 
 ## Ciência da Computação :hourglass_flowing_sand:
 
